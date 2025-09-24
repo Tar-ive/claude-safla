@@ -158,9 +158,9 @@ If you use SAFLA in your research, please cite:
 ```bibtex
 @software{claude-safla,
   title = {Claude-SAFLA: Session Analysis For LLM Alignment},
-  author = {Your Name},
-  year = {2024},
-  url = {https://github.com/yourusername/claude-safla}
+  author = {Saksham Adhikari},
+  year = {2025},
+  url = {https://github.com/Tar-ive/claude-safla}
 }
 ```
 
